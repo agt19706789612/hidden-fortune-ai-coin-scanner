@@ -1,0 +1,1 @@
+# hidden-fortune-ai-coin-scanner
